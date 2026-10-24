@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**36** solved · 27 problems · 0 labs · 9 math
+**37** solved · 28 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-20 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-24 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-17 | [solution](problems/0083-dot-product-calculator) |
+| [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-10-24 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-10-21 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2026-10-17 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2026-10-16 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
